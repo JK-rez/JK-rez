@@ -5,7 +5,7 @@
 - :books: King's College Healthcare Technologies MSc student
 
 
-- 👨‍💻 Working for my thesis with [MONAI](https://github.com/Project-MONAI/MONAI) on the developement of data augmentation modules to be integrate to the network
+- 👨‍💻 Working for my thesis with [MONAI](https://github.com/Project-MONAI/MONAI) on the developement of data augmentation modules to be integrated to the network
 
 
 
