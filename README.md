@@ -2,7 +2,7 @@
 
 <h1 align="left">:books: About Me:</h1>
 
-- :books: King's College Healthcare Technologies MSc student
+- :books: King's College Healthcare Technologies Phd candidate
 
 
 - 👨‍💻 Working for my thesis with [MONAI](https://github.com/Project-MONAI/MONAI) on the developement of data augmentation modules to be integrated to it's network
