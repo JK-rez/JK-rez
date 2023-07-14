@@ -1,7 +1,11 @@
 <h1 align="left">Hi there, I'm Julien Quarez</h1>
+
+<div>
 <img align="center" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JK-rez&theme=github_dark"/>
 <img align="left" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JK-rez&theme=github_dark"/>
 <img align="right" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JK-rez&theme=github_dark">
+</div>
+
 <h1 align="left">:books: About Me:</h1>
 
 - :books: King's College Healthcare Technologies Phd candidate
